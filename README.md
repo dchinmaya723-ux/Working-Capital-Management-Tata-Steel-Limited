@@ -182,14 +182,6 @@ Jindal S&P      █████████████████████�
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-Internship Project — Finance / Strategy
-> *Connect on [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)*
-
----
-
 ## ⚠️ Disclaimer
 
 This project is prepared for academic and internship purposes only. All data is sourced from publicly available Tata Steel Annual Reports. This is not investment advice.
