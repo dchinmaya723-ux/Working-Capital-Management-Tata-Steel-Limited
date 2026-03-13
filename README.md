@@ -2,6 +2,7 @@
 ### Internship Project | Financial Statement Analysis | FY2019 – FY2023
 
 ---
+<img width="1950" height="1087" alt="image" src="https://github.com/user-attachments/assets/4c4a3ed7-405a-4857-a657-98b274ae0443" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Company-Tata%20Steel%20Limited-1A3A6C?style=for-the-badge" />
